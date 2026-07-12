@@ -22,4 +22,4 @@ int main() {
     printf("Smallest number = %d\n", min);
 
     return 0;
-}
+} 
